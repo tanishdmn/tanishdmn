@@ -20,7 +20,7 @@ Currently, I work on robotics and AI projects, including connected systems and r
 📍 **Focus:** Data analytics, machine learning, financial insights, and intelligent systems  
 ⚽ **Beyond tech:** National-level football has taught me discipline, teamwork, and persistence.
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 📊 Kaggle 2018 Survey Dashboard
 An interactive exploration of the Kaggle 2018 Machine Learning and Data Science Survey, covering careers, demographics, tools, and data science practices.
