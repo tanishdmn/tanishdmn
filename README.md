@@ -2,7 +2,7 @@
 
 # Hey there, I'm Tanish Kumar 👋
 
-### 📊 Data Analytics · 🤖 Machine Learning · 💰 Financial Analytics · ⚙️ Robotics & IoT
+### 📊 Data Analytics · 🤖 Machine Learning · ⚙️ Robotics & IoT
 
 *I turn data and ideas into practical tools, clear insights, and smarter decisions.* 🚀
 
@@ -12,29 +12,65 @@
 
 ## 👨‍💻 About Me
 
-I’m a data analyst and machine learning enthusiast who enjoys transforming complex data into insights people can use. My experience spans financial analytics, interactive dashboards, robotics, and IoT—bringing together data analysis, software, and real-world problem solving.
+I'm a data analyst and machine learning enthusiast who enjoys exploring data and building useful solutions. My experience includes financial analytics, interactive dashboards, robotics, and IoT systems.
 
-Currently, I work on robotics and AI projects, including connected systems and real-time monitoring dashboards. Previously, I worked with financial datasets, built a loan-default prediction model, and created dashboards to communicate business insights. 📈
-
-🎓 **Education:** B.Tech in Computer Science & Mathematical Innovation, University of Delhi  
-📍 **Focus:** Data analytics, machine learning, financial insights, and intelligent systems  
-⚽ **Beyond tech:** National-level football has taught me discipline, teamwork, and persistence.
+- 📈 Interested in data analytics, machine learning, and data visualization
+- ⚙️ Building projects with Python, SQL, and modern analytics tools
+- 🌱 Currently exploring NLP, Generative AI, and cloud analytics
+- ⚽ National-level football player who values teamwork and persistence
 
 ## 🚀 Featured Project
 
-### 📊 Kaggle 2018 Survey Dashboard
-An interactive exploration of the Kaggle 2018 Machine Learning and Data Science Survey, covering careers, demographics, tools, and data science practices.
+### 📊 Kaggle 2018 Data Science Survey Dashboard
 
-- 🔎 [Explore the repository](https://github.com/tanishdmn/kaggle2018-dashboard)
+An interactive dashboard for exploring survey responses about data science careers, demographics, tools, and work habits.
+
+- 🔎 [View the project on GitHub](https://github.com/tanishdmn/kaggle2018-dashboard)
 - 🌐 [Open the live dashboard](https://kaggle2018-dashboard-aquds2pejim.streamlit.app/)
 
-## 🌱 What I’m Exploring
+---
 
-I’m continuing to grow my skills in machine learning, generative AI, data storytelling, and cloud analytics. I’m especially interested in projects where technology can make information easier to understand and useful in everyday decisions. ✨
+## 🛠️ Tech Stack
 
-## 🤝 Let’s Connect
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
-I’m always glad to meet people who enjoy building, learning, and solving problems with data. Feel free to explore my repositories or connect with me here on GitHub! 💬
+---
+
+## 📈 GitHub Stats
+
+<div>
+  <a href="https://github.com/tanishdmn">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanishdmn&show_icons=true&theme=tokyonight&hide_border=true" alt="Tanish's GitHub stats" />
+  </a>
+  <a href="https://github.com/tanishdmn">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishdmn&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  </a>
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<p>
+  <a href="https://github.com/tanishdmn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <div align="center">
 
