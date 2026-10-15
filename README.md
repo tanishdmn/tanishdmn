@@ -70,6 +70,9 @@ An interactive dashboard for exploring survey responses about data science caree
   <a href="https://www.linkedin.com/in/tanish-kumar-180424244/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+   <a href="tanishkumar84511@gamil.com">
+    <img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub](https://mail.google.com/mail/u/0/?service=mail&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin#inbox)" />
+  </a>
 </p>
 
 <div align="center">
