@@ -52,10 +52,10 @@ An interactive dashboard for exploring survey responses about data science caree
 
 <div>
   <a href="https://github.com/tanishdmn">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanishdmn&show_icons=true&theme=tokyonight&hide_border=true" alt="Tanish's GitHub stats" />
+    <img height="165" src="./profile/stats.svg" alt="Tanish's GitHub stats" />
   </a>
   <a href="https://github.com/tanishdmn">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishdmn&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+    <img height="165" src="./profile/top-langs.svg" alt="Most used languages" />
   </a>
 </div>
 
